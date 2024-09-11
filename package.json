@@ -2,7 +2,7 @@
   "publisher": "phil668",
   "name": "BocPayI18n",
   "displayName": "BocPayI18n",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": true,
   "packageManager": "pnpm@9.7.1",
   "description": "",
